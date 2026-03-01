@@ -6,10 +6,10 @@ import (
 	"github.com/charmbracelet/bubbles/progress"
 	tea "github.com/charmbracelet/bubbletea"
 
-	"pomo/internal/config"
-	"pomo/internal/notify"
-	"pomo/internal/session"
-	"pomo/internal/timer"
+	"github.com/lornest/pomo/internal/config"
+	"github.com/lornest/pomo/internal/notify"
+	"github.com/lornest/pomo/internal/session"
+	"github.com/lornest/pomo/internal/timer"
 )
 
 const tickInterval = 100 * time.Millisecond

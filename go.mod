@@ -1,4 +1,4 @@
-module pomo
+module github.com/lornest/pomo
 
 go 1.25.6
 

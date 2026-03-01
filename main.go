@@ -6,8 +6,8 @@ import (
 
 	tea "github.com/charmbracelet/bubbletea"
 
-	"pomo/internal/config"
-	"pomo/internal/ui"
+	"github.com/lornest/pomo/internal/config"
+	"github.com/lornest/pomo/internal/ui"
 )
 
 func main() {

@@ -3,7 +3,7 @@ package ui
 import (
 	"fmt"
 
-	"pomo/internal/timer"
+	"github.com/lornest/pomo/internal/timer"
 )
 
 func (m Model) View() string {
